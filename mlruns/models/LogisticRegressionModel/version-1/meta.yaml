@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728411380971
+current_stage: None
+description: ''
+last_updated_timestamp: 1728411380971
+name: LogisticRegressionModel
+run_id: 59e13ae2e8984ac58750f50a14b40bc7
+run_link: ''
+source: file:///c:/Users/carl%C3%A8ne%20Tungamwese/OneDrive/Bureau/Nouveau%20dossier/FORMATION/Projet%20ML%20ops/mlruns/996404065381672304/59e13ae2e8984ac58750f50a14b40bc7/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/carl%C3%A8ne%20Tungamwese/OneDrive/Bureau/Nouveau%20dossier/FORMATION/Projet%20ML%20ops/mlruns/996404065381672304/59e13ae2e8984ac58750f50a14b40bc7/artifacts/logistic_regression_model
+user_id: null
+version: 1
