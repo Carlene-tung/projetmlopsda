@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/carl%C3%A8ne%20Tungamwese/OneDrive/Bureau/Nouveau%20dossier/FORMATION/Projet%20ML%20ops/mlruns/707074775783072228/05af77a0926840489aa7a0dd266e1771/artifacts
+end_time: 1728560848506
+entry_point_name: ''
+experiment_id: '707074775783072228'
+lifecycle_stage: active
+run_id: 05af77a0926840489aa7a0dd266e1771
+run_name: Logistic_Regression_Model
+run_uuid: 05af77a0926840489aa7a0dd266e1771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728560804243
+status: 3
+tags: []
+user_id: carlène Tungamwese
