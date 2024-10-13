@@ -1,0 +1,14 @@
+artifact_location: mlflow-artifacts:/896107673007472729
+creation_time: 1728844817197
+experiment_id: '896107673007472729'
+last_update_time: 1728844995963
+lifecycle_stage: deleted
+name: Bank_Model_Experiment
+tags:
+  department: Retail_Banking
+  mlflow.note.content: Projet de prévision de risque de défaut sur prêts personnels
+    utilisant des modèles de régression logistique. Cette expérience contient divers
+    runs pour modéliser le comportement de remboursement.
+  project_name: Risk_Default_MLops
+  project_quarter: Q4-2024
+  team: Risk_Management
